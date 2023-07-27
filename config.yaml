@@ -1,7 +1,0 @@
-proxies:
-- name: ziyouhua
- type: ssr
- server: 38.55.136.42
- port: 39400
- password: g38bZa0Vox3z
- cipher: aes-256-gcm
